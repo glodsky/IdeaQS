@@ -1,2 +1,2 @@
 # IdeaQS
-IdeaMIS 's Desktop version on window
+IdeaMIS 's Desktop version on window by using VB6
